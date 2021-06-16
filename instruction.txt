@@ -1,0 +1,6 @@
+
+This Game is designed and created by Vinay Pratap Singh
+
+This game is a Dice Rolling and Guessing the correct Dice Digit by the User
+If the user will tell the correct Digit then he will won the Game else he will Lose the Game
+His total achivements (Lifetime Score) will be shown in the end of the Game or from the High Score Option
